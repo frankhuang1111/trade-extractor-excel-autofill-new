@@ -2,8 +2,6 @@
 
 A standalone Windows plugin that updates `~/.codex/config.toml` for a GPT-5.3 Codex preset.
 
-> This repository is independent from any business/data-processing project and does not include trade records.
-
 ## What this plugin changes
 
 - `model = "gpt-5.3-codex"`
@@ -32,6 +30,7 @@ A standalone Windows plugin that updates `~/.codex/config.toml` for a GPT-5.3 Co
 
 - Latest release: `v1.0.0`
 - Asset: `codex_gpt53_preset_plugin.zip`
+- Release page: `https://github.com/frankhuang1111/codex-gpt53-preset-plugin/releases/tag/v1.0.0`
 
 ## License
 
